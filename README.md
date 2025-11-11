@@ -1,3 +1,3 @@
-# Quick description
+# Description rapide
 
-Repo used to store exercises done during my apprenticeship on different tools.
+Repo utilisé  pour stocker les exercices réalisés pendant mon apprentissage sur différents outils.
